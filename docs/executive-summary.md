@@ -1,3 +1,4 @@
+# Executive Summary
 NovaMart Consumer Goods Limited is a national FMCG distributor operating across Lagos, Abuja, and Port Harcourt, serving supermarkets, wholesalers, retail chains, and independent retailers across nine product categories.
 
 As the business expanded, management needed a clearer view of how effectively procurement, inventory, warehouse operations, sales, logistics, and finance were working together to support profitable and reliable customer service. Although the company generated large volumes of operational data, decision-making required a consolidated analytical view of performance across departments.

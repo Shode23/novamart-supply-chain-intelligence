@@ -1,6 +1,7 @@
 # NovaMart Supply Chain Intelligence
 
 ### End-to-End Supply Chain Analytics for a Simulated National FMCG Distributor
+![NovaMart Dashboard Cover](assets/Dasboard-cover.JPG)
 
 NovaMart Supply Chain Intelligence is an end-to-end business intelligence project designed to evaluate how effectively a simulated national FMCG distributor converts procurement, inventory, warehouse, sales, logistics, and financial activity into reliable customer service and sustainable business performance.
 
@@ -209,7 +210,9 @@ NovaMart was designed as a layered analytical solution:
 The end-to-end architecture is:
 
 > **MySQL Database → SQL Analysis → Power BI Data Model → DAX Measures → Interactive Dashboard**
->
+
+![NovaMart Technical Architecture](assets/architecture-diagram.JPG)
+
 > ## Dataset Overview
 
 The project uses a simulated FMCG operational dataset created specifically for portfolio analysis.
@@ -264,7 +267,9 @@ The 14 production tables are grouped into the following areas:
 - Inventory
 
 A dedicated Date table is used in Power BI to support controlled historical analysis across the relevant transactional dates.
+### Power BI Data Model
 
+![NovaMart Power BI Data Model](assets/data-model.png)
 ## SQL Analysis Modules
 
 The analytical workload was organized into six modular SQL files, each aligned to a specific business workstream.
@@ -329,7 +334,7 @@ Tracks on-time delivery, late shipments, transport cost, warehouse service perfo
 
 ### 7. Financial & Operational Efficiency
 Connects collections, procurement intensity, transport cost, estimated profitability, warehouse contribution, and operational efficiency.
-
+# Selected Dashboard Pages
 <p align="center">
   <img src="dashboard/screenshots/02_sales_performance.png" width="48%" />
   <img src="dashboard/screenshots/03_product_customer_performance.png" width="48%" />
